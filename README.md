@@ -15,7 +15,7 @@ Selamat Datang di GitHub...Berikut ini Website Galeri yang saya buat kalau ada y
 ![image](https://github.com/Audiferiza/website-galeri/assets/157564603/9c317e59-82cf-4906-94fa-fc4be754e5a5)
 
 #Halaman Foto
-![image](https://github.com/Audiferiza/website-galeri/assets/157564603/309cc92d-fbad-4aaf-802d-e3503a080f71)
+![image](https://github.com/Audiferiza/website-galeri/assets/157564603/ce5a698d-0f1d-400c-a06a-073adfe24b57)
 
 #Halaman Edit Foto
 ![image](https://github.com/Audiferiza/website-galeri/assets/157564603/ee27560d-23f9-4bfe-ab7b-e3bd689af76a)
